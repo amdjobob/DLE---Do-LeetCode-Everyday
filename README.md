@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0027-remove-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -32,4 +33,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
