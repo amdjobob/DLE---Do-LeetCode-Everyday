@@ -6,9 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0027-remove-element/) | Easy |
 | [0704-binary-search](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0704-binary-search/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
