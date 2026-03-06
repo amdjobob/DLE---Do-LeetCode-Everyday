@@ -5,12 +5,12 @@ public class Solution {
         {
             if (val == nums[i])
             {
-                for (int j = i; j < nums.Length-1; j++)
+                for (int j = i; j < nums.Length-1; j++) // 把 array 往前移動
                 {
                     nums[j] = nums[j+1];
                 }
-                result = result - 1;
-                i = i-1;
+                result = result-1;
+                i = i-1; // 因為 array 往前移動，當前位置需要再檢查一遍
             }
         }
         return result;
