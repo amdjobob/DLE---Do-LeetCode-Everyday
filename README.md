@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0724-find-pivot-index/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
