@@ -11,7 +11,8 @@
  */
 public class Solution {
     public ListNode RemoveElements(ListNode head, int val) {
-        ListNode current = head, previous = head;
+        ListNode current = head;
+        ListNode previous = new ListNode(0, head);
         while( head != null && head.val == val )
         {
             head = head.next;
