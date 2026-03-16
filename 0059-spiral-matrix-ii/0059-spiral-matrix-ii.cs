@@ -7,13 +7,6 @@ public class Solution {
             result[i] = new int[n];
         }
 
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < n; j++)
-            {
-                result[i][j] = 0;
-            }
-        }
         int path = 1, edge = 0, x = 0, y = 0;
         for (int i = 1; i < n*n+1; i++)
         {
