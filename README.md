@@ -49,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
