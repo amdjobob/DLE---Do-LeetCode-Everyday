@@ -11,19 +11,35 @@
  */
 public class Solution {
     public ListNode RemoveElements(ListNode head, int val) {
-        if (head == null) return head;
-        while(head.val == val)
-        {
-            head = head.next;
-            if (head == null) return head;
-        }
-        ListNode current = head;
+        ListNode previous = head, current = head;
         while(true)
         {
-            if (current == null || current.next == null) return head;
-            if (current.next.val == val) current.next = current.next.next;
-            else current = current.next;
+            if (current == null) return head;
+            if (head.val == val) head = head.next;
+            if (current.val == val) 
+            {
+                previous.next = current.next;
+                current = current.next;
+            }
+            else 
+            {
+                previous = current;
+                current = current.next;
+            }
         }
-        return head;
+        // if (head == null) return head;
+        // while(head.val == val)
+        // {
+        //     head = head.next;
+        //     if (head == null) return head;
+        // }
+        // ListNode current = head;
+        // while(true)
+        // {
+        //     if (current == null || current.next == null) return head;
+        //     if (current.next.val == val) current.next = current.next.next;
+        //     else current = current.next;
+        // }
+        // return head;
     }
 }
