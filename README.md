@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0707-design-linked-list](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0707-design-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0707-design-linked-list](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
