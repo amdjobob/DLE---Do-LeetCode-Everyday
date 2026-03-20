@@ -11,6 +11,7 @@
  */
 public class Solution {
     public ListNode ReverseList(ListNode head) {
+        // 每次抓一個元素出來，放在虛擬頭的後面。
         ListNode reverseList = new ListNode();
         while(head != null)
         {
