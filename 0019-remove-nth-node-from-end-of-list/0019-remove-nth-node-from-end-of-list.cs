@@ -11,13 +11,14 @@
  */
 public class Solution {
     public ListNode RemoveNthFromEnd(ListNode head, int n) {
+        // 解題思路：讓前後指針，間隔n格
         ListNode dummy = new ListNode(0, head), fast = head, slow = dummy;
         int length = 0;
         while(fast != null)
         {
             fast = fast.next;
             slow = slow.next;
-            if (++length == n)
+            if (++length == n)  // 走了 n 步之後，重製慢指針
             {
                 slow = dummy;
             }
