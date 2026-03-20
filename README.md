@@ -53,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
