@@ -11,14 +11,14 @@
  */
 public class Solution {
     public ListNode DetectCycle(ListNode head) {
-        ListNode dummyHead = new ListNode(0, head), fast = dummyHead, slow = dummyHead;
+        ListNode fast = head, slow = head;
         while(slow.next != null && fast.next != null && fast.next.next != null)
         {
             fast = fast.next.next;
             slow = slow.next;
             if (fast == slow)
             {
-                slow = dummyHead;
+                slow = head;
                 while(fast != slow)
                 {
                     fast = fast.next;
