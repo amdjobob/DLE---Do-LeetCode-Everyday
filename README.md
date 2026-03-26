@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -74,4 +75,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
