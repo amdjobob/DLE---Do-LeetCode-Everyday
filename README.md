@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1002-find-common-characters](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/1002-find-common-characters/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,8 +77,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
+| [1002-find-common-characters](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/1002-find-common-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
+| [1002-find-common-characters](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/1002-find-common-characters/) | Easy |
 <!---LeetCode Topics End-->
