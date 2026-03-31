@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0027-remove-element/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
 | [1002-find-common-characters](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/1002-find-common-characters/) | Easy |
 ## String
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
 | [1002-find-common-characters](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/1002-find-common-characters/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
