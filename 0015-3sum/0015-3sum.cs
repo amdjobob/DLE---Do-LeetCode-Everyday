@@ -12,17 +12,15 @@ public class Solution {
                 int sum = numsSorted[i] + numsSorted[left] + numsSorted[right];
                 if (sum < 0){
                     left++;
-                    continue;
                 }
                 else if (sum > 0){
                     right--;
-                    continue;
                 }
                 else{
                     result.Add([numsSorted[i], numsSorted[left], numsSorted[right]]);
                     left++;
+                    while(numsSorted[left] == numsSorted[left-1] && left!=nums.Length-1) left++;
                 }
-                while(numsSorted[left] == numsSorted[left-1] && left!=nums.Length-1) left++;
             }
         }
         return result;
