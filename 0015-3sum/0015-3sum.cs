@@ -12,6 +12,7 @@ public class Solution {
                 int sum = numsSorted[i] + numsSorted[left] + numsSorted[right];
                 if (sum < 0){
                     left++;
+                    continue;
                 }
                 else if (sum > 0){
                     right--;
