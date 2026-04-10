@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0027-remove-element/) | Easy |
 | [0059-spiral-matrix-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0027-remove-element/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0015-3sum/) | Medium |
 | [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
