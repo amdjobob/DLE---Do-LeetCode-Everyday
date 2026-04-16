@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/0383-ransom-note/) | Easy |
 | [1002-find-common-characters](https://github.com/amdjobob/DLE---Do-LeetCode-Everyday/tree/main/1002-find-common-characters/) | Easy |
 ## Math
